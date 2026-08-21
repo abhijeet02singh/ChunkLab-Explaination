@@ -1,0 +1,6 @@
+{
+  "name": "ChunkLab",
+  "description": "A modern interactive visualizer for text chunking, splitting strategies, and RAG document preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
