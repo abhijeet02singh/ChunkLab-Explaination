@@ -10,7 +10,7 @@ export const SAMPLE_PRESETS: SamplePreset[] = [
     id: 'general',
     name: 'General RAG',
     desc: 'Standard prose & explanations',
-    text: `The quick brown fox jumps over the lazy dog. Chunking is a process of splitting large text into smaller, meaningful pieces. This helps LLMs process information within context windows efficiently. Modern RAG systems rely heavily on finding the right chunking strategy to balance context and relevance. If chunks are too small, they lose meaning. If they are too large, they might introduce noise or exceed limits.`,
+    text: `Picking the most relevant information from a large document is easy for a human reader, but difficult for a computer. A common solution is chunking: breaking a large document into smaller pieces called chunks. Each chunk can then be processed, searched, or provided to a language model separately.Chunking breaks large documents into smaller, useful pieces so language models work with the most relevant information.`,
   },
   {
     id: 'markdown',
